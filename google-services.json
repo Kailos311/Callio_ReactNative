@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689471810942",
+    "project_id": "callio-bc80e",
+    "storage_bucket": "callio-bc80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689471810942:android:0819364d1d035286d9972f",
+        "android_client_info": {
+          "package_name": "com.callio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689471810942-5c7dnouutiuhg72nagem3o19k9l749f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTwNBihHe5qttgyHMjXxxblj4R8TFK2Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689471810942-5c7dnouutiuhg72nagem3o19k9l749f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
